@@ -1,17 +1,25 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: Sobre mim # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 2 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  Sou engenheiro florestal formado pela Universidade de São Paulo ([ESALQ/USP](http://www4.esalq.usp.br/)) e trabalho na [Suzano S.A.](http://www.suzano.com.br/), em Americana-SP. Grande parte das minhas atividades estão relacionadas à métodos computacionais aplicados à pesquisa florestal.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
-outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  Durante a graduação tive a sorte de me engajar em diversos projetos de pesquisa e em um deles conheci o [Software R](https://cran.r-project.org/). Desde então, venho adquirindo experiência no desenvolvimento de rotinas para resolução problemas relacionados às ciências florestais.
+
+  Na graduação, fui estagiário do Instituto de Pesquisas e Estudos Florestais ([IPEF](https://www.ipef.br/)), atuando na área de biometria florestal do Programa Cooperativo [TECHS](http://www.ipef.br/techs/). Participei ativamente no Grupo Florestal Monte Olimpo ([GFMO](https://www.facebook.com/gfmo96)) e no Projeto [TUME](http://www.projetotume.com/) enquanto estive na ESALQ. Também fui bolsista por 3 anos no Programa Cargill Global Scholars ([CGS](https://www.cargillglobalscholars.com/)). Como trabalho de conclusão de curso, desenvolvi um pacote em R para o cálculo de índices de competição de árvores individuais chamado [comp3](https://github.com/italocegatta/comp3).
+  
+  <br>
+  <br>
+  <h3>Atividades acadêmicas e profissionais</h3>
+  <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1YYs2AyX5cQKwwM_BUCI1ABJSEtiFEVTHgBPZuSB-K5A&font=Default&lang=pt-br&start_at_end=true&hash_bookmark=true&initial_zoom=2&height=350' width='100%' height='400' frameborder='0'></iframe> 
+  
+show_outro: false
+#outro: |
+#  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for #her help naming this Hugo theme!
 ---
 
 ** index doesn't contain a body, just front matter above.
