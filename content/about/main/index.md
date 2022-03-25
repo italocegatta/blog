@@ -15,7 +15,7 @@ intro: |
   <br>
   <br>
   <h3>Atividades acadêmicas e profissionais</h3>
-  <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1YYs2AyX5cQKwwM_BUCI1ABJSEtiFEVTHgBPZuSB-K5A&font=Default&lang=pt-br&start_at_end=true&hash_bookmark=true&initial_zoom=2&height=350' width='100%' height='400' frameborder='0'></iframe> 
+  <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1YYs2AyX5cQKwwM_BUCI1ABJSEtiFEVTHgBPZuSB-K5A&font=Default&lang=pt-br&hash_bookmark=true&initial_zoom=2&height=350#event-suzano-sa-2' width='100%' height='400' frameborder='0'></iframe> 
   
 show_outro: false
 #outro: |
