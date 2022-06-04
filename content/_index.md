@@ -4,7 +4,7 @@ action_link: /blog
 action_type: text
 description: 
   Apaixonado por dados e músicas. <br>
-  Sou formado em Engenheiro Florestal e atuo como Cientista de Dados na [Suzano](https://www.suzano.com.br). <br>
+  Sou formado em Engenharia Florestal e atuo como Cientista de Dados na [Suzano](https://www.suzano.com.br). <br>
   Programo no R há mais de 10 anos e recentemente também estou programando em
   Python para resolver os problemas do dia a dia. 
 image_left: false
